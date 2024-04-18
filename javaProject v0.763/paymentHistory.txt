@@ -1,0 +1,4 @@
+Jing,Room Booking,150,123-456-7890,2024-03-20,Credit Card
+John,Room Booking,150,123-456-7890,2024-03-20,Credit Card
+Michael,Room Booking,150,123-456-7890,2024-03-20,Credit Card
+Emily,Room Booking,150,123-456-7890,2024-03-20,Credit Card
